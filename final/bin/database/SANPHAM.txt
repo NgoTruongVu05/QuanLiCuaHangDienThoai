@@ -1,0 +1,19 @@
+DienThoai,SP009,Sony,Xperia 1 III,6.5,1200.0,186.0,512,12,Qualcomm Snapdragon 888,true,10
+DienThoai,SP008,OnePlus,9 Pro,6.7,970.0,197.0,256,12,Qualcomm Snapdragon 888,true,15
+DienThoai,SP006,Huawei,P50,6.5,850.0,189.0,128,8,Kirin 9000,true,20
+Tablet,SP017,Microsoft,Surface Go 2,10.5,550.0,544.0,64,4,Intel Pentium Gold,true,20
+DienThoai,SP004,Oppo,Find X3,6.7,699.0,190.0,256,12,Qualcomm Snapdragon 870,true,25
+Tablet,SP013,Apple,iPad Pro,12.9,1200.0,682.0,256,8,Apple M1,false,25
+DienThoai,SP002,Apple,iPhone 13,6.1,999.0,174.0,256,6,A15 Bionic,true,30
+DienThoai,SP010,Google,Pixel 5,6.0,699.0,151.0,128,8,Qualcomm Snapdragon 765G,true,35
+DienThoai,SP003,Xiaomi,Mi 11,6.81,749.0,196.0,128,8,Qualcomm Snapdragon 888,true,40
+Tablet,SP020,Apple,iPad Air,10.9,600.0,458.0,64,4,Apple A14 Bionic,false,40
+DienThoai,SP007,Realme,GT Master,6.43,350.0,174.0,128,6,Qualcomm Snapdragon 778G,true,45
+Tablet,SP014,Huawei,MediaPad M6,10.8,400.0,498.0,128,4,HiSilicon Kirin 980,false,45
+Tablet,SP015,Xiaomi,Mi Pad 5,11.0,450.0,511.0,128,6,Qualcomm Snapdragon 860,false,50
+Tablet,SP012,Samsung,Galaxy Tab S7,11.0,650.0,498.0,128,6,Qualcomm Snapdragon 865+,false,55
+DienThoai,SP005,Vivo,V21,6.44,300.0,176.0,128,8,MediaTek Dimensity 800U,true,60
+Tablet,SP018,Lenovo,Tab M10,10.1,200.0,480.0,32,3,MediaTek Helio P22T,false,60
+Tablet,SP019,Samsung,Galaxy Tab A7,10.4,230.0,476.0,32,3,Qualcomm Snapdragon 662,false,65
+Tablet,SP011,Lenovo,Tab P11,11.0,250.0,490.0,64,4,Qualcomm Snapdragon 662,false,70
+Tablet,SP016,Amazon,Fire HD 10,10.1,150.0,465.0,32,3,MediaTek Helio P60T,false,80
